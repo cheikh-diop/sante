@@ -1,2 +1,2 @@
 # Health
-Web App for defavorised person which need help for medical treatment
+Web App for defavorised person who need help for medical treatment
